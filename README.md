@@ -1,6 +1,6 @@
 ### Hi, I'm synchrium 👋
 
-Small, free apps with Japanese names — made to make your Mac (and Windows) a little nicer.
+Small, free apps with Japanese names — made to make your Mac (and Windows) a little nicer.<br>
 日本語の名前の、小さくて無料のアプリを作っています。
 
 | App | What it does | For |
